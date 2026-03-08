@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Command/Command.csproj" />
+  <Project Path="Template/Template.csproj" Id="8e3d8aa4-e0ff-4be7-b1f2-183a7700e39e" />
+</Solution>
