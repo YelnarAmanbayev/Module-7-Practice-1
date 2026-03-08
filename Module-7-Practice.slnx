@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Command/Command.csproj" />
+  <Project Path="Mediator/Mediator.csproj" Id="67ccf221-fc22-4551-8812-c0d2ad826b9e" />
   <Project Path="Template/Template.csproj" Id="8e3d8aa4-e0ff-4be7-b1f2-183a7700e39e" />
 </Solution>
